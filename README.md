@@ -6,3 +6,6 @@ A fuzzy clock that uses emoji to show the approximate time.
 
 ## itunes-apps.py - Show Mobile Apps details
 Creates an HTML table containing the icon, name, link, developer, genre, and description of all the apps in the users' Mobile Apps folder (assuming that it's in the default location)
+
+## forecast.php
+Grabs weather info from forecast.io, sticks an emoji upfront, and gives you an English language summary of the next hour.
